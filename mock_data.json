@@ -1,0 +1,119 @@
+{
+  "5": {
+    "nodes": [
+      {
+        "id": "swiggy",
+        "label": "Swiggy",
+        "type": "Company",
+        "attributes": {},
+        "source_chunks": ["5"]
+      },
+      {
+        "id": "swiggyplatform",
+        "label": "Swiggy Platform",
+        "type": "Platform",
+        "attributes": {},
+        "source_chunks": ["5"]
+      },
+      {
+        "id": "source_5",
+        "label": "Swiggy Limited IPO Prospectus",
+        "type": "Source",
+        "attributes": {},
+        "source_chunks": ["5"]
+      }
+    ],
+    "edges": [
+      {
+        "source_id": "swiggy",
+        "target_id": "swiggyplatform",
+        "relation": "operates",
+        "source_chunks": ["5"]
+      },
+      {
+        "source_id": "swiggy",
+        "target_id": "source_5",
+        "relation": "described_in",
+        "source_chunks": ["5"]
+      }
+    ]
+  },
+  "6": {
+    "nodes": [
+      {
+        "id": "swiggy",
+        "label": "Swiggy",
+        "type": "Company",
+        "attributes": {},
+        "source_chunks": ["6"]
+      },
+      {
+        "id": "instamart",
+        "label": "Instamart",
+        "type": "Service",
+        "attributes": {},
+        "source_chunks": ["6"]
+      },
+      {
+        "id": "source_6",
+        "label": "Chunk 6",
+        "type": "Source",
+        "attributes": {},
+        "source_chunks": ["6"]
+      }
+    ],
+    "edges": [
+      {
+        "source_id": "swiggy",
+        "target_id": "instamart",
+        "relation": "offers",
+        "source_chunks": ["6"]
+      },
+      {
+        "source_id": "swiggy",
+        "target_id": "source_6",
+        "relation": "described_in",
+        "source_chunks": ["6"]
+      }
+    ]
+  },
+  "7": {
+    "nodes": [
+      {
+        "id": "swiggy",
+        "label": "Swiggy",
+        "type": "Company",
+        "attributes": {},
+        "source_chunks": ["7"]
+      },
+      {
+        "id": "dineout",
+        "label": "Dineout",
+        "type": "Acquisition Target",
+        "attributes": {},
+        "source_chunks": ["7"]
+      },
+      {
+        "id": "source_7",
+        "label": "Annual Report FY 2024-25",
+        "type": "Source",
+        "attributes": {},
+        "source_chunks": ["7"]
+      }
+    ],
+    "edges": [
+      {
+        "source_id": "swiggy",
+        "target_id": "dineout",
+        "relation": "acquired",
+        "source_chunks": ["7"]
+      },
+      {
+        "source_id": "swiggy",
+        "target_id": "source_7",
+        "relation": "described_in",
+        "source_chunks": ["7"]
+      }
+    ]
+  }
+}

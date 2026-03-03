@@ -1,0 +1,772 @@
+{
+  "nodes": [
+    {
+      "id": "swiggy",
+      "label": "Swiggy",
+      "type": "Company",
+      "attributes": {},
+      "source_chunks": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "swiggyplatform",
+      "label": "Unified Platform",
+      "type": "Platform",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "fooddelivery",
+      "label": "Food Delivery",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "diningoutevents",
+      "label": "Dining out and Events",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "grocerydelivery",
+      "label": "Grocery and Household items delivery",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "otherhyperlocalservices",
+      "label": "Other hyperlocal services",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "restaurantpartners",
+      "label": "Restaurant partners",
+      "type": "Partner",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "merchantpartners",
+      "label": "Merchant partners",
+      "type": "Partner",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "brandpartners",
+      "label": "Brand partners",
+      "type": "Partner",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "deliverypartners",
+      "label": "Delivery partners",
+      "type": "Partner",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "type": "Capability",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "analytics",
+      "label": "Analytics",
+      "type": "Capability",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "fulfilment",
+      "label": "Fulfilment",
+      "type": "Capability",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "membership",
+      "label": "Membership",
+      "type": "Capability",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "swiggyone",
+      "label": "Swiggy one",
+      "type": "Feature",
+      "attributes": {},
+      "source_chunks": [
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": "source_5",
+      "label": "Swiggy Limited IPO Prospectus",
+      "type": "Source",
+      "attributes": {},
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "id": "source_6",
+      "label": "Chunk 6",
+      "type": "Source",
+      "attributes": {},
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "id": "e2014",
+      "label": "Pioneer in Food Delivery (2014)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "e2020",
+      "label": "Pioneer in Quick Commerce (2020)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "instamart",
+      "label": "Instamart",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "id": "dineout",
+      "label": "Dineout",
+      "type": "Acquisition Target",
+      "attributes": {},
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "membershipprogramme",
+      "label": "Membership Programme",
+      "type": "Feature",
+      "attributes": {},
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "id": "quickcommerce",
+      "label": "Quick Commerce",
+      "type": "Capability",
+      "attributes": {},
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "id": "quickbites",
+      "label": "Quick Bites",
+      "type": "Product",
+      "attributes": {},
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "id": "swiggyinstamart",
+      "label": "Swiggy Instamart",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "swiggygenie",
+      "label": "Swiggy Genie",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "swiggyminis",
+      "label": "Swiggy Minis",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "lynk",
+      "label": "Lynk",
+      "type": "Acquisition Target",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "swiggymall",
+      "label": "Swiggy Mall",
+      "type": "Platform",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "bolt",
+      "label": "Bolt",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "swiggyscenes",
+      "label": "Swiggy Scenes",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "snacc",
+      "label": "SNACC",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "pyng",
+      "label": "Pyng",
+      "type": "Service",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "hdfcbank",
+      "label": "HDFC Bank",
+      "type": "Partner",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "swiggyhdfccreditcard",
+      "label": "Swiggy-HDFC Bank co-branded credit card",
+      "type": "Product",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2013",
+      "label": "Incorporation (2013)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2015",
+      "label": "First major fundraise (2015)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2019",
+      "label": "Expansion of food delivery business (2019)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2021",
+      "label": "Launch of Swiggy One (2021)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2022",
+      "label": "Acquisition and integration of Dineout (2022)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2023",
+      "label": "Launch of Swiggy-HDFC Bank co-branded credit card (2023)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2024",
+      "label": "Public listing and launch of Bolt (2024)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "e2025",
+      "label": "Surpassing 120 million transacted users (2025)",
+      "type": "Event",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "id": "source_7",
+      "label": "Chunk 7",
+      "type": "Source",
+      "attributes": {},
+      "source_chunks": [
+        "7"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyplatform",
+      "relation": "offers",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggyplatform",
+      "target_id": "fooddelivery",
+      "relation": "includes",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggyplatform",
+      "target_id": "diningoutevents",
+      "relation": "includes",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggyplatform",
+      "target_id": "grocerydelivery",
+      "relation": "includes",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggyplatform",
+      "target_id": "otherhyperlocalservices",
+      "relation": "includes",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "restaurantpartners",
+      "relation": "operates",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "merchantpartners",
+      "relation": "operates",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "brandpartners",
+      "relation": "operates",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "deliverypartners",
+      "relation": "operates",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "technology",
+      "relation": "enabled_by",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "analytics",
+      "relation": "enabled_by",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "fulfilment",
+      "relation": "enabled_by",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "membership",
+      "relation": "enabled_by",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "membership",
+      "target_id": "swiggyone",
+      "relation": "includes",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "source_5",
+      "relation": "described_in",
+      "source_chunks": [
+        "5"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "source_6",
+      "relation": "described_in",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2014",
+      "relation": "has_event",
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2020",
+      "relation": "has_event",
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "instamart",
+      "relation": "offers",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "dineout",
+      "relation": "acquired",
+      "source_chunks": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "membershipprogramme",
+      "relation": "offers",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "fooddelivery",
+      "relation": "offers",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "quickcommerce",
+      "relation": "enabled_by",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "membershipprogramme",
+      "target_id": "quickbites",
+      "relation": "includes",
+      "source_chunks": [
+        "6"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "source_7",
+      "relation": "described_in",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyinstamart",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggygenie",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyone",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyminis",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "lynk",
+      "relation": "acquired",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggymall",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "bolt",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyscenes",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "snacc",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "pyng",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "hdfcbank",
+      "relation": "partnered_with",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "swiggyhdfccreditcard",
+      "relation": "offers",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2013",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2015",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2019",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2021",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2022",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2023",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2024",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    },
+    {
+      "source_id": "swiggy",
+      "target_id": "e2025",
+      "relation": "has_event",
+      "source_chunks": [
+        "7"
+      ]
+    }
+  ]
+}
